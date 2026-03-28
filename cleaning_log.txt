@@ -1,0 +1,6 @@
+Initial shape: (7, 6)
+Column names standardized.
+Removed 1 duplicate rows.
+Converted age, salary, and join_date to correct data types.
+Handled 6 missing values.
+Saved cleaned dataset as cleaned_data.csv
